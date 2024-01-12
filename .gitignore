@@ -33,5 +33,5 @@ yarn-error.log
 Thumbs.db
 
 # Manual
-# .env
+.env
 /uploads
